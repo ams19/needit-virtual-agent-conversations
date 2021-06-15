@@ -39,7 +39,7 @@
         <limit/>
         <mandatory>false</mandatory>
         <max_length>32</max_length>
-        <model display_value="Update NeedIt Records">52cd6fe82f3430104806351ef699b60e</model>
+        <model display_value="Update NeedIt Records.">52cd6fe82f3430104806351ef699b60e</model>
         <model_id>52cd6fe82f3430104806351ef699b60e</model_id>
         <model_table/>
         <name>var__m_topic_variable_52cd6fe82f3430104806351ef699b60e</name>
